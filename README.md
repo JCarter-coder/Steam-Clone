@@ -1,1 +1,3 @@
-This is the project README
+The URL of the deployed application is:
+
+https://steamcloneproject.vercel.app/
