@@ -17,13 +17,13 @@ const EarlyAccess = () => {
           it develops.
         </h2>
         <p>
-          <span>Note:</span>
-          This Early Access game is not complete and may or may not change
+          <span>{`Note: `}</span>
+          {`This Early Access game is not complete and may or may not change
           further. If you are not excited to play this game in its current
           state, then you should wait to see if the game progresses further in
-          development.
+          development. `}
           <a href="https://store.steampowered.com/earlyaccessfaq/?snr=1_5_9_">
-            Learn more
+            {`Learn more`}
           </a>
         </p>
       </div>
